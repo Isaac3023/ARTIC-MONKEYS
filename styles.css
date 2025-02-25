@@ -26,4 +26,8 @@ p2 {
 .am-song{
     background-color: white;
     width: fit-content;
+    padding: 50px;
+}
+ol {
+    color: white;
 }
