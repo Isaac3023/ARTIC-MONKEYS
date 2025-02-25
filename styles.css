@@ -8,3 +8,22 @@ p {color:white;
 h2{
     color: white;
 }
+
+.about-section {
+    background-color: purple;
+    width: fit-content;
+    padding: 3px;
+}
+.music-section {
+    background-color: purple;
+    width: fit-content;
+    padding: 2px;
+}
+p2 {
+    color: black;
+    background-color: white;
+}
+.am-song{
+    background-color: white;
+    width: fit-content;
+}
