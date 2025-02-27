@@ -19,15 +19,16 @@ h2{
     width: fit-content;
     padding: 2px;
 }
-p2 {
-    color: black;
-    background-color: white;
-}
+
 .am-song{
     background-color: white;
     width: fit-content;
     padding: 50px;
+    text-align: center;
 }
 ol {
-    color: white;
+    color: black;
+    background-color: white;
+   width: fit-content;
+   padding: 30px;
 }
