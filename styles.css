@@ -23,15 +23,22 @@ h2{
 .am-song{
     background-color: white;
     width: fit-content;
-    padding: 50px;
+    /*padding: 50px;*/
     text-align: center;
+    
 }
 ol {
     color: black;
     background-color: white;
    width: fit-content;
    padding: 30px;
+   text-align: center;
 }
 a {
-    color: white;
+    color: white;  
+}
+
+.music-container {
+    display: flex;
+    justify-content: flex-end;
 }
