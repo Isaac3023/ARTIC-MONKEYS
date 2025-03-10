@@ -23,7 +23,7 @@ h2{
 .am-song{
     background-color: white;
     width: fit-content;
-    /*padding: 50px;*/
+    padding: 50px;
     text-align: center;
     
 }
@@ -39,6 +39,10 @@ a {
 }
 
 .music-container {
+    display: flex;
+    justify-content: flex-end;
+}
+.burger {
     display: flex;
     justify-content: flex-end;
 }
