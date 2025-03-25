@@ -16,9 +16,18 @@ h4{
 .center{
     text-align: center;
 }
+img{
+    height: 30px;
+    width: 40px;
+}
+h3{
+    text-align: center;
+    color: aliceblue;
+}
 
-
-
+div {
+    text-align: center;
+}
 
 
 
