@@ -52,8 +52,10 @@ h3{
 h4{
     color: black;
 }
-.byte {
-    font-family: "Bytesized", sans-serif;
+.mono {
+    font-family: "Monoton", sans-serif;
     font-weight: 400;
     font-style: normal;
   }
+  
+  
