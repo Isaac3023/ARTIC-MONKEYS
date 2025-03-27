@@ -1,4 +1,8 @@
-h1 {color:aliceblue;}
+
+
+h1 {color:aliceblue;
+}
+
 body {
     background-color: black;
 }
@@ -36,6 +40,7 @@ ol {
 }
 a {
     color: white;  
+    text-decoration: none;
 }
 
 .music-container {
@@ -57,5 +62,7 @@ h4{
     font-weight: 400;
     font-style: normal;
   }
-  
+  h5{
+    color: white;
+  }
   
