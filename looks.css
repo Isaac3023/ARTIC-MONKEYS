@@ -11,3 +11,10 @@ img {
 iframe{
     padding: 20px;
 }
+a{
+    color: white;
+    text-decoration: solid;
+}
+h6{
+    color: black;
+}
