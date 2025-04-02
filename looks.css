@@ -1,6 +1,6 @@
 h1 {
     width: fit-content;
-    color: white;
+    color: black
 }
 img {
 
@@ -17,3 +17,13 @@ a{
 h6{
     color: black;
 }
+.retro {
+    font-family: "Audiowide", sans-serif;
+    font-weight: 450;
+    font-style: normal;
+  }
+h3 {
+    text-align: center;
+    color: black;
+}
+  

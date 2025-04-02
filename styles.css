@@ -59,10 +59,10 @@ h4{
 }
 .mono {
     font-family: "Monoton", sans-serif;
-    font-weight: 400;
+    font-weight: 450;
     font-style: normal;
   }
-  h5{
-    color: white;
+ 
+  a{
+    text-decoration: underline;
   }
-  
