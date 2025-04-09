@@ -38,5 +38,11 @@ a {
     font-style: normal;
   }
 
-
-
+.random-songs {
+    background-color: purple;
+    height: 150px;
+    margin-bottom: 25px;
+    display: flex;
+    flex-direction: column;
+    
+}
