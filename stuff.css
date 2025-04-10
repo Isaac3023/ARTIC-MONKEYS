@@ -44,5 +44,13 @@ a {
     margin-bottom: 25px;
     display: flex;
     flex-direction: column;
-    
+    justify-content: center;
+    align-items: center;
+
+}
+
+/* Style for the song button */
+#songButton {
+    width: 20%;
+    height: 45%;
 }
