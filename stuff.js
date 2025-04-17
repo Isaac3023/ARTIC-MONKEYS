@@ -3,6 +3,13 @@ const songs = [
     "Crying Lighting",
     "Abrella",
     "Knee Socks",
+    "505",
+    "R u Mine",
+    "Do I Wanna Know?",
+    "One For The Road",
+    "I Wanna Be Yours",
+    "Fireside",
+    
 ];
 
 // Dictionary Example
